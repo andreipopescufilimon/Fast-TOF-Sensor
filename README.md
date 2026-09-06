@@ -12,4 +12,6 @@ Main Features:
 - Up to approximately 4 m measurement range
 - Wide field of view
 - I²C communication
+- 4 × 4: up to 60 readings/s, approximately 16.7 ms between readings
+- 8 × 8: up to 15 readings/s, approximately 66.7 ms between readings
 - Compact custom PCB
